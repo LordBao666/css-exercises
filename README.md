@@ -1,3 +1,8 @@
+# intro
+This is a repository I(LordBao666) cloned from <a href="https://github.com/TheOdinProject/css-exercises" target="_blank">css-exercies</a> of The Odin Project.
+Below is the content of the origin README.md.
+
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.

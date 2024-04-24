@@ -1,5 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  /* change  remember that text-align can be inherited*/
+  text-align: center;
 }
 
 img {
@@ -7,10 +9,29 @@ img {
   height: 100px;
 }
 
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
+
+.content{
+  display: flex;
+  gap:52px;
+  justify-content: center; 
+}
+
+.description{
+  max-width: 200px;
+  /* Real amazing, We don't need properties below（and adding them can't get the effect instead） */
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center; */
+  
+}
+
+
 
 /* do not edit this footer */
 .footer {
